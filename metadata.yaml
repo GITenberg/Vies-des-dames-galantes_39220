@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39903
     wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39220#Vies-des-dames-galantes
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2012-03-21'
 gutenberg_type: Text
