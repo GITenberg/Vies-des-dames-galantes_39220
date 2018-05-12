@@ -1,0 +1,33 @@
+_repo: Vies-des-dames-galantes_39220
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brantôme, Pierre de Bourdeille
+    aliases:
+    - De Bourdeille, Pierre, seigneur de Brantôme
+    - Bourdeille, Pierre, seigneur de Brantôme
+    - Brantome, Pierre de Bourdeille, seigneur de
+    deathdate: 1614
+    gutenberg_agent_id: '39903'
+    url: http://www.gutenberg.org/2009/agents/39903
+    wikipedia: http://en.wikipedia.org/wiki/Pierre_de_Bourdeille,_seigneur_de_Brant%C3%B4me
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2012-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39220'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Erotic literature'
+- !lcc 'DC'
+- !lcsh 'France -- Court and courtiers'
+- !lcsh 'Women -- France -- Biography'
+title: Vies des dames galantes
+url: http://www.gutenberg.org/ebooks/39220
